@@ -113,14 +113,12 @@ And you get an ANSWER!
 
 
 
-
-
-
-
-
-
-
-
-
 ![answer](https://github.com/user-attachments/assets/26a6e420-cba3-4532-aaad-1ffd9113d28c)
+
+
+
+
+
+ILL WORK ON THE COLOR SCHEME LATERRR
+
 
