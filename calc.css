@@ -15,7 +15,7 @@
 }
 
 .calculator{
-    background-color:rgb(113, 150, 238);
+    background-color: burlywood;
     padding: 20px;
     border-radius: 10px;
 }
@@ -26,8 +26,8 @@
     width: 60px;
     height: 60px;
     border-radius: 10px;
-    box-shadow: -8px -8px 15px rgba(225,225,225 0.1) , 5px 5px rgba(225,225,225 0.2);
-    background: rgb(38, 159, 189);
+    box-shadow: -8px -8px 15px rgba(225, 225, 225, 0.1) , 5px 5px rgba(0, 0, 0, 0.2);
+    background: transparent;
     font-size: 20px;
     color: #fff;
     cursor: pointer;
