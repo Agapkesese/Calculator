@@ -47,6 +47,6 @@ form .inputarea input{
     box-shadow:none ;
 }
 
-form .inout .equalbutton{
-    width: 45px;
+form .input .equal{
+    width: 1200px;
 }
