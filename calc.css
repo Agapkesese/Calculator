@@ -47,6 +47,7 @@ form .inputarea input{
     box-shadow:none ;
 }
 
-form .input .equal{
-    width: 1200px;
+form .equal {
+    width: calc(100% / 3 * 2 - 10px); /* Make it span across two buttons */
 }
+
