@@ -8,4 +8,7 @@ c
 at this point ive been severly humbled ...i would have been lost in the world if not chat gpt saving me 
 ![Explanation][def]
 
-[def]: string.jpg
+[def]: string.png
+
+
+[laslast](laslast.png)
