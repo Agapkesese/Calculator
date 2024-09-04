@@ -51,3 +51,7 @@ form .equal {
     width: calc(100% / 3 * 2 - 10px); /* Make it span across two buttons */
 }
 
+
+form input.operator{
+    color: #eedb31;
+}
