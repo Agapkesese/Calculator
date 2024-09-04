@@ -33,3 +33,16 @@
     cursor: pointer;
     margin: 10px;
 }
+
+form .inputarea{
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px 0;
+}
+
+form .inputarea input{
+    text-align: right;
+    flex: 1;
+    font-size: 45px;
+    box-shadow:none ;
+}
